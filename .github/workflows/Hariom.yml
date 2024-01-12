@@ -1,4 +1,4 @@
-name: Maven Build and Publish
+name: Example workflow for Maven using Snyk
 on:
   workflow_dispatch:
 
